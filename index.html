@@ -681,19 +681,22 @@
           </div>
         </div>
 		
-        <div class="container" ng-app="myApp" ng-controller="myCtrl">
-        <div class="col-sm-4" ng-repeat="art in portfolio">
-            <div ng-repeat="art in portfolio">
-		    <div class="col-sm-4 exec-member">
-                    	<p class="text-muted">{{art.Name}}</p>
-		    </div>
-		    <div class="col-sm-4 exec-member">
-                    	<p class="text-muted">{{art.Major}}</p>
-		    </div>
-            </div>
-                
-        </div>
-    </div>
+       
+		  
+        <div class="container row" ng-app="myApp" ng-controller="myCtrl">
+          <div class="col-sm-4" ng-repeat="art in portfolio"> 
+            <div class="col-sm-4">
+	    	<div class="exec-member">
+		    <p class="text-muted">{{art.Name}}</p>
+	     	</div>
+	     </div>
+	     <div class="col-sm-4">
+		<div class="exec-member">
+		   <p class="text-muted">{{art.Major}}</p>
+	        </div>
+              </div>
+	   </div>
+	</div>
 		  
         <div class="row">
           <div class="col-sm-4">
