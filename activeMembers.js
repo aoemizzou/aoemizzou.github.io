@@ -57,20 +57,38 @@ app.controller("myCtrl", function($scope) {
             "Name" : "MaryRose Ornosky",
             "Major" : "Pre-Engineering"
        },{
-            "Name" : "Kiley Marshall",
+            "Name" : "Lauren Parker",
+            "Major" : "Mechanical Engineering"
+       },{
+            "Name" : "Amber Peterein",
+            "Major" : "Civil Engineering and Political Science"
+       },{
+            "Name" : "Megan Richmond",
             "Major" : "Biological Engineering"
        },{
-            "Name" : "Kiley Marshall",
+            "Name" : "Abbie Ries",
+            "Major" : "Industrial Engineering"
+       },{
+            "Name" : "Samantha Sample",
+            "Major" : "Electrical and Computer Engineering"
+       },{
+            "Name" : "Gillian Schulte",
+            "Major" : "Electrical Engineering"
+       },{
+            "Name" : "Rachel Slings",
+            "Major" : "Biologicial Engineering"
+       },{
+            "Name" : "Kristina Taylor",
+            "Major" : "Chemical Engineering"
+       },{
+            "Name" : "Sydney Ties",
+            "Major" : "Computer Engineering"
+       },{
+            "Name" : "Emma Tomes",
             "Major" : "Biological Engineering"
        },{
-            "Name" : "Kiley Marshall",
-            "Major" : "Biological Engineering"
-       },{
-            "Name" : "Kiley Marshall",
-            "Major" : "Biological Engineering"
-       },{
-            "Name" : "Kiley Marshall",
-            "Major" : "Biological Engineering"
+            "Name" : "Kennedy Tunks",
+            "Major" : "Industrial Engineering"
        },{
             "Name" : "Sarah Twomey",
             "Major" : "Computer Science and Information Technology"
@@ -79,9 +97,6 @@ app.controller("myCtrl", function($scope) {
             "Major" : "Mechanical Engineering"
         },{
             "Name" : "Kiersten York",
-            "Major" : "Mechanical Engineering"
-        },{
-            "Name" : "Allison Weyhrich",
             "Major" : "Mechanical Engineering"
         }
     ]
