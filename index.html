@@ -684,18 +684,18 @@
        
 		  
         <div class="container row" ng-app="myApp" ng-controller="myCtrl">
-          <div class="col-sm-4" ng-repeat="art in portfolio"> 
-            <div class="exec-member">
+          <div ng-repeat="name in portfolio"> 
+            <div class="col-sm-4 exec-member">
 	    	
-		    <p class="text-muted">{{art.Name}}</p>
+		    <p class="text-muted">{{name.Name}}</p>
 	     	
 	     </div>
-	     <div class="exec-member">
+	     <div class="col-sm-4 exec-member">
 		
-		   <p class="text-muted">{{art.Major}}</p>
+		   <p class="text-muted">{{name.Major}}</p>
 	        
               </div>
-		  <div ><p></p></div>
+		  <div class="col-sm-4"><p></p></div>
 	   </div>
 	</div>
 		  
