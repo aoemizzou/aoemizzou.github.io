@@ -3,6 +3,9 @@ app.controller("myCtrl", function($scope) {
 
     $scope.portfolio = [
        {
+            "Name" : "Jessica Austin",
+            "Major" : "Mechanical Engineering"
+       },{
             "Name" : "Sarah Twomey",
             "Major" : "Computer Science and Information Technology"
        },{
