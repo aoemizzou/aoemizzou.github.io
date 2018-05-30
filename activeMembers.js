@@ -1,3 +1,10 @@
+//to add a new member copy and paste this and add in name and major within the quotation marks:
+//{
+//    "Name" : "",
+//    "Major" : ""
+//}
+//MAKE SURE THERE IS A COMMA BETWEEN EACH MEMBER {} OR IT WILL NOT WORK 
+
 var app = angular.module("myApp", []);
 app.controller("myCtrl", function($scope) {
 
