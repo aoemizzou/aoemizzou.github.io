@@ -678,6 +678,16 @@
             <h2 class="section-heading">Active Members</h2>
           </div>
         </div>
+		  
+	<div class="container row" ng-app="myApp" ng-controller="myCtrl">
+          <div class="col-sm-4">
+	    <div class="exec-member" ng-repeat="art in portfolio">
+		    <p class="text-muted">{{art.Name}}</p>
+		    <p class="text-muted">{{art.Major}}</p>
+	     </div>
+	   </div>
+	</div>
+		  
         <div class="row">
           <div class="col-sm-4">
 	    <div class="exec-member">
