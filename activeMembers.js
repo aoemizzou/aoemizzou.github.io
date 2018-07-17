@@ -102,9 +102,6 @@ app.controller("myCtrl", function($scope) {
        },{
             "Name" : "Allison Weyhrich",
             "Major" : "Mechanical Engineering"
-        },{
-            "Name" : "Kiersten York",
-            "Major" : "Mechanical Engineering"
         }
     ]
 });
