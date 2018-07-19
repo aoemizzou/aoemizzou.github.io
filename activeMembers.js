@@ -10,11 +10,17 @@ app.controller("myCtrl", function($scope) {
 
     $scope.portfolio = [
        {
+            "Name" : "Paige Ackerman",
+            "Major" : "Health Sciences"
+       },{
             "Name" : "Jessica Austin",
             "Major" : "Mechanical Engineering"
        },{
             "Name" : "Lauren Baratta",
             "Major" : "Chemical Engineering"
+       },{
+            "Name" : "Lydia Becvar",
+            "Major" : "Biological Engineering"
        },{
             "Name" : "Stacey Bonderer",
             "Major" : "Civil Engineering"
@@ -23,7 +29,7 @@ app.controller("myCtrl", function($scope) {
             "Major" : "Civil and Environnmetal Engineering"
        },{
             "Name" : "Jamie Cottrell",
-            "Major" : "Undecided"
+            "Major" : "Civil Engineering"
        },{
             "Name" : "Olivia Decker",
             "Major" : "Mechanical Engineering and Physics"
@@ -33,6 +39,12 @@ app.controller("myCtrl", function($scope) {
        },{
             "Name" : "Mojan Felfeli",
             "Major" : "Mechanical Engineering"
+       },{
+            "Name" : "Olivia Flagg-Bourke",
+            "Major" : "English and Communications"
+       },{
+            "Name" : "Camille Frazier",
+            "Major" : "Information Technology"
        },{
             "Name" : "Libby Freihaut",
             "Major" : "Mechanical Engineering"
@@ -49,8 +61,14 @@ app.controller("myCtrl", function($scope) {
             "Name" : "Tsiania Hughes",
             "Major" : "Computer Engineering"
        },{
+            "Name" : "Clare Kercher",
+            "Major" : "Biological Engineering"
+       },{
             "Name" : "Breanna Ladd",
             "Major" : "Civil Engineering"
+       },{
+            "Name" : "Josephine Luk",
+            "Major" : "Biological Engineering"
        },{
             "Name" : "Kiley Marshall",
             "Major" : "Biological Engineering"
@@ -61,8 +79,14 @@ app.controller("myCtrl", function($scope) {
             "Name" : "Hannah Moss",
             "Major" : "Strategic Communications"
        },{
+            "Name" : "Natalie Mowery",
+            "Major" : "Industrial Engineering"
+       },{
             "Name" : "MaryRose Ornosky",
             "Major" : "Pre-Engineering"
+       },{
+            "Name" : "Allison Park",
+            "Major" : "Mechanical Engineering"
        },{
             "Name" : "Lauren Parker",
             "Major" : "Mechanical Engineering"
