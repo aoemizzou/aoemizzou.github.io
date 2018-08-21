@@ -31,29 +31,17 @@ app.controller("myCtrl", function($scope) {
             "Name" : "Jamie Cottrell",
             "Major" : "Civil Engineering"
        },{
-            "Name" : "Olivia Decker",
-            "Major" : "Mechanical Engineering and Physics"
-       },{
             "Name" : "Laura Deters",
             "Major" : "Biological Engineering"
        },{
-            "Name" : "Mojan Felfeli",
-            "Major" : "Mechanical Engineering"
-       },{
             "Name" : "Olivia Flagg-Bourke",
             "Major" : "English and Communications"
-       },{
-            "Name" : "Camille Frazier",
-            "Major" : "Information Technology"
        },{
             "Name" : "Libby Freihaut",
             "Major" : "Mechanical Engineering"
        },{
             "Name" : "Martha Gahl",
             "Major" : "Electrical Engineering and Physics"
-       },{
-            "Name" : "Madeline Harl",
-            "Major" : "Civil Engineering"
        },{
             "Name" : "Maria Howell",
             "Major" : "Electrical Engineering and Physics"
@@ -73,17 +61,11 @@ app.controller("myCtrl", function($scope) {
             "Name" : "Kiley Marshall",
             "Major" : "Biological Engineering"
        },{
-            "Name" : "Sidney McMillan",
-            "Major" : "Chemical Engineering"
-       },{
             "Name" : "Hannah Moss",
             "Major" : "Strategic Communications"
        },{
             "Name" : "Natalie Mowery",
             "Major" : "Industrial Engineering"
-       },{
-            "Name" : "MaryRose Ornosky",
-            "Major" : "Pre-Engineering"
        },{
             "Name" : "Allison Park",
             "Major" : "Mechanical Engineering"
@@ -103,29 +85,17 @@ app.controller("myCtrl", function($scope) {
             "Name" : "Samantha Sample",
             "Major" : "Electrical and Computer Engineering"
        },{
-            "Name" : "Gillian Schulte",
-            "Major" : "Electrical Engineering"
-       },{
             "Name" : "Rachel Slings",
             "Major" : "Biologicial Engineering"
        },{
             "Name" : "Kristina Taylor",
             "Major" : "Chemical Engineering"
        },{
-            "Name" : "Sydney Ties",
-            "Major" : "Computer Engineering"
-       },{
             "Name" : "Emma Tomes",
             "Major" : "Biological Engineering"
        },{
             "Name" : "Kennedy Tunks",
             "Major" : "Industrial Engineering"
-       },{
-            "Name" : "Sarah Twomey",
-            "Major" : "Computer Science and Information Technology"
-       },{
-            "Name" : "Allison Weyhrich",
-            "Major" : "Mechanical Engineering"
-        }
+       }
     ]
 });
