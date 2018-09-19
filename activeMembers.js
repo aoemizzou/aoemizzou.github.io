@@ -86,7 +86,7 @@ app.controller("myCtrl", function($scope) {
             "Major" : "Electrical and Computer Engineering"
        },{
             "Name" : "Rachel Slings",
-            "Major" : "Biologicial Engineering"
+            "Major" : "English Education"
        },{
             "Name" : "Kristina Taylor",
             "Major" : "Chemical Engineering"
