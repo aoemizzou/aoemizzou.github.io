@@ -55,9 +55,6 @@ app.controller("myCtrl", function($scope) {
             "Name" : "Breanna Ladd",
             "Major" : "Civil Engineering"
        },{
-            "Name" : "Josephine Luk",
-            "Major" : "Biological Engineering"
-       },{
             "Name" : "Kiley Marshall",
             "Major" : "Biological Engineering"
        },{
