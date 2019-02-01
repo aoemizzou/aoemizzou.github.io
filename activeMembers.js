@@ -22,23 +22,44 @@ app.controller("myCtrl", function($scope) {
             "Name" : "Lydia Becvar",
             "Major" : "Biological Engineering"
        },{
-            "Name" : "Stacey Bonderer",
-            "Major" : "Civil Engineering"
-       },{
             "Name" : "Megan Carlin",
-            "Major" : "Civil and Environnmetal Engineering"
-       },{
-            "Name" : "Jamie Cottrell",
             "Major" : "Civil Engineering"
+       },{
+            "Name" : "Elizabeth Conley",
+            "Major" : "Biomedical Engineering"
+       },{
+            "Name" : "Jennifer Coppinger",
+            "Major" : "Biomedical Engineering"
+       },{
+            "Name" : "Olivia Decker",
+            "Major" : "Mechanical Engineering and Physics"
        },{
             "Name" : "Laura Deters",
             "Major" : "Biological Engineering"
        },{
-            "Name" : "Olivia Flagg-Bourke",
-            "Major" : "English and Communications"
+            "Name" : "Abby DeVrieze",
+            "Major" : "Biological Engineering"
        },{
-            "Name" : "Libby Freihaut",
+            "Name" : "Samantha Drainer",
             "Major" : "Mechanical Engineering"
+       },{
+            "Name" : "Abby Dzurick",
+            "Major" : "Computer Science"
+       },{
+            "Name" : "Maddie Est",
+            "Major" : "Meterology"
+       },{
+            "Name" : "Taryn Fogarty",
+            "Major" : "Mechanical Engineering"
+       },{
+            "Name" : "Camille Fraizer",
+            "Major" : "Information technilogy"
+       },{
+            "Name" : "Elizabeth Freihaut",
+            "Major" : "Mechanical Engineering"
+       },{
+            "Name" : "Veronica Fritz",
+            "Major" : "Biological Engineering"
        },{
             "Name" : "Martha Gahl",
             "Major" : "Electrical Engineering and Physics"
@@ -49,14 +70,32 @@ app.controller("myCtrl", function($scope) {
             "Name" : "Tsiania Hughes",
             "Major" : "Computer Engineering"
        },{
-            "Name" : "Clare Kercher",
-            "Major" : "Biological Engineering"
+            "Name" : "Riley Jackson",
+            "Major" : "Biomedical Engineering"
        },{
-            "Name" : "Breanna Ladd",
+            "Name" : "Annika Jurczyk",
+            "Major" : "Civil Engineering"
+       },{
+            "Name" : "Alexandra Juszczyk",
+            "Major" : "Biomedical Engineering"
+       },{
+            "Name" : "Lucy Kegley",
+            "Major" : "Mechanical and Aerospace Engineering"
+       },{
+            "Name" : "Kyra Liebi",
             "Major" : "Civil Engineering"
        },{
             "Name" : "Kiley Marshall",
             "Major" : "Biological Engineering"
+       },{
+            "Name" : "Sidney McMillian",
+            "Major" : "Chemical Engineering"
+       },{
+            "Name" : "Anna Merkel",
+            "Major" : "Mechanical Engineering"
+       },{
+            "Name" : "Kristina Moore",
+            "Major" : "Chemical Engineering"
        },{
             "Name" : "Hannah Moss",
             "Major" : "Strategic Communications"
@@ -70,29 +109,47 @@ app.controller("myCtrl", function($scope) {
             "Name" : "Lauren Parker",
             "Major" : "Mechanical Engineering"
        },{
-            "Name" : "Amber Peterein",
-            "Major" : "Civil Engineering and Political Science"
-       },{
             "Name" : "Megan Richmond",
             "Major" : "Biological Engineering"
        },{
-            "Name" : "Abbie Ries",
-            "Major" : "Industrial Engineering"
+            "Name" : "Brooke Runge",
+            "Major" : "Mechanical Engineering and Math"
        },{
             "Name" : "Samantha Sample",
             "Major" : "Electrical and Computer Engineering"
        },{
+            "Name" : "Rebecca Shyu",
+            "Major" : "Computer Science"
+       },{
             "Name" : "Rachel Slings",
             "Major" : "English Education"
+       },{
+            "Name" : "Ellie Snoke",
+            "Major" : "Chemical Engineering"
+       },{
+            "Name" : "Kayla Stites",
+            "Major" : "Biomedical Engineering"
        },{
             "Name" : "Kristina Taylor",
             "Major" : "Chemical Engineering"
        },{
-            "Name" : "Emma Tomes",
+            "Name" : "Coral Tracy",
+            "Major" : "Chemical Engineering and French"
+       },{
+            "Name" : "Taylor Volkers",
             "Major" : "Biological Engineering"
        },{
-            "Name" : "Kennedy Tunks",
-            "Major" : "Industrial Engineering"
+            "Name" : "Shelby Wiseman",
+            "Major" : "Mechanical Engineering"
+       },{
+            "Name" : "Allison Weyhrich",
+            "Major" : "Biomedical Engineering"
+       },{
+            "Name" : "Madison Yakstis",
+            "Major" : "Biomedical Engineering"
+       },{
+            "Name" : "Kiersten York",
+            "Major" : "Biomedical Engineering"
        }
     ]
 });
