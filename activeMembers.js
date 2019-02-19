@@ -149,7 +149,7 @@ app.controller("myCtrl", function($scope) {
             "Major" : "Biomedical Engineering"
        },{
             "Name" : "Kiersten York",
-            "Major" : "Biomedical Engineering"
+            "Major" : "Mechanical Engineering"
        }
     ]
 });
