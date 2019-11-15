@@ -14,7 +14,7 @@ app.controller("myCtrl", function($scope) {
             "Major" : "Mechanical Engineering"
        },{
             "Name" : "Greta Balasz",
-            "Major" : 
+            "Major" : ""
        },{
             "Name" : "Isabel Banks",
             "Major" : ""
