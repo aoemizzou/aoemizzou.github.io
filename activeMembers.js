@@ -11,82 +11,58 @@ app.controller("myCtrl", function($scope) {
     $scope.portfolio = [
        {
             "Name" : "Jessica Austin",
-            "Major" : "Mechanical Engineering"
-       },{
-            "Name" : "Greta Balasz",
-            "Major" : ""
+            "Major" : "Mechanical and Aerospace Engineering"
        },{
             "Name" : "Isabel Banks",
-            "Major" : ""
+            "Major" : "Biomedical Engineering"
        },{
             "Name" : "Lauren Baratta",
             "Major" : "Chemical Engineering"
-       },{
-            "Name" : "Elizabeth Conley",
-            "Major" : "Biomedical Engineering"
        },{
             "Name" : "Olivia Decker",
             "Major" : "Mechanical Engineering and Physics"
        },{
             "Name" : "Abby DeVrieze",
-            "Major" : "Biological Engineering"
+            "Major" : "Biomedical Engineering"
        },{
             "Name" : "Samantha Drainer",
             "Major" : "Mechanical Engineering"
        },{
             "Name" : "Abby Dzurick",
-            "Major" : "Computer Science"
+            "Major" : "Journalism"
        },{
             "Name" : "Taryn Fogarty",
             "Major" : "Mechanical Engineering"
        },{
             "Name" : "Sierra Foster",
-            "Major" : ""
+            "Major" : "Biomedical Engineering"
        },{
-            "Name" : "Maddie Frappier",
-            "Major" : ""
-       },{
-            "Name" : "Camille Frazier",
-            "Major" : "Information technology"
-       },{
-            "Name" : "Elizabeth Freihaut",
-            "Major" : "Mechanical Engineering"
-       },{
-            "Name" : "Veronica Fritz",
-            "Major" : "Biological Engineering"
-       },{
-            "Name" : "Kaitlin Glascock",
-            "Major" : ""
+            "Name" : "Madelynn Frappier",
+            "Major" : "Biomedical Engineering"
        },{
             "Name" : "Cristin Harris",
-            "Major" : ""
+            "Major" : "Mechanical Engineering"
        },{
             "Name" : "Madeline Hartranft",
-            "Major" : ""
+            "Major" : "Mechanical Engineering"
        },{
             "Name" : "Mori Hodel",
-            "Major" : ""
+            "Major" : "Biological Engineering"
        },{
             "Name" : "Noelia Iribe",
-            "Major" : ""
+            "Major" : "Computer and Electrical Engineering"
        },{
             "Name" : "Riley Jackson",
-            "Major" : "Biomedical Engineering"
+            "Major" : "Electrical Engineering"
        },{
             "Name" : "Annika Jurczyk",
             "Major" : "Civil Engineering"
        },{
-            "Name" : "Alexandra Juszczyk",
-            "Major" : "Biomedical Engineering"
-       },{
-            "Name" : "Lucy Kegley",
-            "Major" : "Mechanical and Aerospace Engineering"
-       },{
             "Name" : "Reagan Krueger",
-            "Major" : ""
+            "Major" : "Chemical Engineering"
        },{
             "Name" : "Camila Leiva",
-            "Major" : ""
+            "Major" : "Biomedical Engineering"
        },{
             "Name" : "Kyra Liebi",
             "Major" : "Civil Engineering"
@@ -95,64 +71,40 @@ app.controller("myCtrl", function($scope) {
             "Major" : "Computer Science"
        },{
             "Name" : "Sera McKenna",
-            "Major" : ""
-       },{
-            "Name" : "Anna Merkel",
-            "Major" : "Mechanical Engineering"
+            "Major" : "Biomedical Engineering"
        },{
             "Name" : "Devynne Miller",
-            "Major" : ""
-       },{
-            "Name" : "Kristina Moore",
-            "Major" : "Chemical Engineering"
+            "Major" : "Computer Science"
        },{
             "Name" : "Amalia Newman",
-            "Major" : ""
+            "Major" : "Mathematics"
        },{
             "Name" : "Allison Park",
             "Major" : "Mechanical Engineering"
        },{
-            "Name" : "Lauren Parker",
-            "Major" : "Mechanical Engineering"
-       },{
-            "Name" : "Amber Peterein",
-            "Major" : ""
-       },{
             "Name" : "Halle Reach",
-            "Major" : ""
+            "Major" : "Biomedical Engineering"
        },{
-            "Name" : "Abby Ries",
-            "Major" : ""
+            "Name" : "Abbie Ries",
+            "Major" : "Industrial Engineering and Mathematics"
        },{
             "Name" : "Brooke Runge",
-            "Major" : "Mechanical Engineering and Math"
-       },{
-            "Name" : "Samantha Sample",
-            "Major" : "Electrical and Computer Engineering"
+            "Major" : "Mechanical Engineering and Mathematics"
        },{
             "Name" : "Emily Seever",
-            "Major" : ""
+            "Major" : "Biomedical Engineering"
        },{
             "Name" : "Rebecca Shyu",
             "Major" : "Computer Science"
        },{
-            "Name" : "Rachel Slings",
-            "Major" : "English Education"
-       },{
             "Name" : "Ellie Snoke",
             "Major" : "Chemical Engineering"
        },{
-            "Name" : "Morgan Stafford",
-            "Major" : ""
-       },{
             "Name" : "Ava Steele",
-            "Major" : ""
+            "Major" : "Chemical Engineering"
        },{
             "Name" : "Kayla Stites",
-            "Major" : "Biomedical Engineering"
-       },{
-            "Name" : "Kristina Taylor",
-            "Major" : "Chemical Engineering"
+            "Major" : "Computer Science"
        },{
             "Name" : "Coral Tracy",
             "Major" : "Chemical Engineering and French"
@@ -161,10 +113,10 @@ app.controller("myCtrl", function($scope) {
             "Major" : "Biological Engineering"
        },{
             "Name" : "Caelen Walker",
-            "Major" : ""
+            "Major" : "Computer Science"
        },{
             "Name" : "Shelby Wiseman",
-            "Major" : "Mechanical Engineering"
+            "Major" : "Mechanical and Aerospace Engineering"
        },{
             "Name" : "Kiersten York",
             "Major" : "Mechanical Engineering"
